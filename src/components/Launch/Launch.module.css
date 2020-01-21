@@ -1,0 +1,24 @@
+.item {
+  grid-area:c;
+ background-color: darkgray;
+}
+
+.UpPanel img{
+    margin: 0px 0px 0px 33%;
+    width: 300px;
+ }
+
+.SignalPanel img{
+    margin: 0px 0px 0px 27%;
+    width: 400px;
+}
+.CenterPanel img{
+    margin: 0px 0px 0px 16%;
+    width: 600px;
+}
+.Switch img{
+    width: 4px;
+    position: absolute;
+   margin-top:-239px;
+   margin-left:422px;
+}
